@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scrot $HOME/Pictures/%Y-%m-%d-%T-screenshot.png
